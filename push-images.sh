@@ -1,6 +1,6 @@
 #!/bin/sh
 # push all the images from output of 'docker images' to logged in repository. e.g richardx
-# as prerequisite, should login docker first
+# as prerequisite, should login docker first, test
 
 REPONAME="richardx"
 
